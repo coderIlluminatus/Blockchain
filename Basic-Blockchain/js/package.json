@@ -1,0 +1,13 @@
+{
+    "name": "blockjs",
+    "version": "0.0.0",
+    "description": "",
+    "main": "",
+    "dependencies": {
+        "crypto-js": "^3.1.9-1"
+    },
+    "devDependencies": {},
+    "scripts": {},
+    "author": "Sayantan Chatterjee",
+    "license": "ISC"
+}
